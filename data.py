@@ -12,5 +12,7 @@ order_body = {
     "rentTime": 5,
     "deliveryDate": "2023-04-23",
     "comment": "Тестовый",
-    "color": [ ]
+    "color": [
+        "BLACK"
+    ]
 }
